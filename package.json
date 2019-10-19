@@ -1,11 +1,12 @@
 {
-  "homepage" : "https://magnusfroste.github.io/scooter/",
+  "homepage": "https://magnusfroste.github.io/scooter/",
   "name": "brm-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@apollo/react-hooks": "^3.0.1",
     "apollo-boost": "^0.4.4",
+    "gh-pages": "^2.1.1",
     "graphql": "^14.1.1",
     "graphql-tag": "^2.10.1",
     "leaflet": "^1.5.1",
