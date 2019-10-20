@@ -24,7 +24,7 @@ const LeafletContainer = styled(LeafletMap)`
 const defaultPosition = {
   lat: 59.3293,
   lng: 18.0686,
-  locationName: 'mySthockholm',
+  locationName: 'myStockholm',
   zoom: 14
 };
 
