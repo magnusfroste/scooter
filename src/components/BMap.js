@@ -22,9 +22,9 @@ const LeafletContainer = styled(LeafletMap)`
 `;
 
 const defaultPosition = {
-  lat: 52.52,
-  lng: 13.41,
-  locationName: 'myBerlin',
+  lat: 59.3293,
+  lng: 18.0686,
+  locationName: 'mySthockholm',
   zoom: 14
 };
 
