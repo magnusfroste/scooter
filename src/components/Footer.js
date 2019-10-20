@@ -14,8 +14,7 @@ const Footer = () => {
   return (
     <StyledFooter>
       <small className="help-text">
-        Searching vehicles within an radius of max 400m. It might help sometimes
-        to move the map in order to find vehicles. 
+        Shows vehicles within an radius of 400m. Move the map in order to fetch vehicles. 
       </small>
     </StyledFooter>
   );
