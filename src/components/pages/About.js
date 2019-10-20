@@ -7,7 +7,7 @@ const About = () => (
     <h1>About</h1>
     <p>Version v0.1</p>
     <p>
-      A simple example gathering vehicle positions from several (~45)
+      Simple example gathering vehicle positions from several
       mobility service providers (today scooters) using available open APIs.
     </p>
     {/* </div> */}
