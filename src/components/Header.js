@@ -21,7 +21,7 @@ const Title = styled.h1`
 const Header = () => {
   return (
     <MainHeader className="header">
-      <Title data-test-id="header-title">Frostes Micromobility Aggregation Example  - Scooter Map </Title>
+      <Title data-test-id="header-title">Frostes Scot Map </Title>
       <Navigation />
     </MainHeader>
   );
