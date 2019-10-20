@@ -14,7 +14,7 @@ const Footer = () => {
   return (
     <StyledFooter>
       <small className="help-text">
-        Shows vehicles within an radius of 400m. Move the map in order to fetch vehicles. 
+        Shows vehicles within an radius of approx 400m. Move map in order to fetch / refresh vehicles. 
       </small>
     </StyledFooter>
   );
