@@ -125,7 +125,7 @@ const BMap = () => {
         ref={mapRef}
         style={{ position: 'relative' }}
       >
-        <TileLayer url="http://{s}.tile.osm.org/{z}/{x}/{y}.png" />
+        <TileLayer url="https://{s}.tile.osm.org/{z}/{x}/{y}.png" />
         {loading && <LoadingIndicator />}
 
         {!loading && (!data || !data.vehicles) && (
