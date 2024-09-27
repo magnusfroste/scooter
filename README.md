@@ -1,2 +1,3 @@
-# A play with code based on 
-Demo: https://froste.netlify.com
+# Created a collective view (map) for several scooter provoders!
+
+https://froste.netlify.app/
